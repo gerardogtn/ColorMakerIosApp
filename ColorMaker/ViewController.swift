@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         
         // Set colorView on launch
         changeColorComponent()
+
     }
     
     @IBAction func changeColorComponent() {
